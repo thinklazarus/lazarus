@@ -1,9 +1,9 @@
 <br>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/lazarus-dark.png" width="280">
-    <source media="(prefers-color-scheme: light)" srcset=".github/assets/lazarus-light.png" width="280">
-    <img alt="Lazarus" src=".github/assets/lazarus-dark.png" width="280">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/lazarus-dark.svg" width="280">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/lazarus-light.svg" width="280">
+    <img alt="Lazarus" src=".github/assets/lazarus-dark.svg" width="280">
   </picture>
 </p>
 
@@ -33,7 +33,7 @@
 
 <br>
 
-<h2 align="center">Codebase launches April 15, 2026</h2>
+<h2 align="center">Codebase launches May 1, 2026</h2>
 
 <br>
 
@@ -44,7 +44,7 @@
 <br>
 
 <p align="center">
-  <a href="https://thinklazarus.com"><strong>thinklazarus.com</strong></a>
+  <a href="https://openlazarus.ai"><strong>openlazarus.ai</strong></a>
 </p>
 
 <br>
@@ -83,5 +83,5 @@
 <br>
 
 <p align="center">
-  <sub>Built by <a href="https://thinklazarus.com">thinkLazarus</a></sub>
+  <sub>Built by <a href="https://openlazarus.ai">Lazarus</a></sub>
 </p>
